@@ -1,0 +1,12 @@
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\bin\x64\liblept172.dll
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\bin\x64\libtesseract304.dll
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\bin\x86\liblept172.dll
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\bin\x86\libtesseract304.dll
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\bin\Tesseract.WebDemo.dll.config
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\bin\Tesseract.WebDemo.dll
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\bin\Tesseract.WebDemo.pdb
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\bin\Tesseract.dll
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\bin\Tesseract.xml
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\obj\Debug\Tesseract.WebDemo.csprojResolveAssemblyReference.cache
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\obj\Debug\Tesseract.WebDemo.dll
+L:\DownLoads\Chrome\ORC\Tesseract\tesseract-samples-master\tesseract-samples-master\src\Tesseract.WebDemo\obj\Debug\Tesseract.WebDemo.pdb
